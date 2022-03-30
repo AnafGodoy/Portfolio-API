@@ -17,7 +17,9 @@ O Projeto tinha como objetivo utilizar dos conhecimentos adquiridos no curso e p
 
 ![Imagens](https://github.com/AnafGodoy/Portfolio-API/blob/main/imagens.PNG)
 
-Dado esse tema, foi discutido o que poderia ser de grande utilidade no dia a dia do cliente além de melhorar sua qualidade de vida e possibilitar uma maior acessibilidade. Então, tomamos a decisão de criar o Aplicativo de uma Horta Automatizada. Com ela, o cliente podeira inicar-se no ramo de cultivação do próprio alimento de maneira saúdavel tendo todo material de apoio com os detalhes mais básicos. Para seu funcionamento é necessário a conexão com o bluetooth. Navegue pelas opções de plantações e escolha "Escolher para plantar", assim, as configurações serão ajustadas automaticamente. No menu Home, atualize para que seja feita a leitura dos sensores. Em configurações, faça sua escolha entre "regar manual" ou "automático".
+Dado esse tema, foi discutido o que poderia ser de grande utilidade no dia a dia do cliente além de melhorar sua qualidade de vida e possibilitar uma maior acessibilidade. Então, tomamos a decisão de criar o Aplicativo **Horta Automatizada**. Com ele, o cliente poderia inicar-se no ramo de cultivação do próprio alimento de maneira saúdavel tendo todo material de apoio com os detalhes mais básicos como: Sistema sendo capaz de regar no horário correto de acordo com sua preferência de configuração, mostrar as informações coletada pelos sensores, disponibilizar dicas e informações do plantio. Para seu funcionamento é necessário primeiramente a conexão com o bluetooth. Navegue pelas opções de plantações e escolha "Escolher para plantar", assim, as configurações serão ajustadas automaticamente. No menu Home, atualize para que seja feita a leitura dos sensores. Em configurações, faça sua escolha entre "regar manual" ou "automático".
+
+![video do app funcionando](https://github.com/AnafGodoy/Portfolio-API/blob/main/video-funcionamento-do-app.gif)
 
 
 
@@ -26,11 +28,20 @@ Dado esse tema, foi discutido o que poderia ser de grande utilidade no dia a dia
 ## **Tecnologias Utilizadas:**
 ## Software:
 •	Kodular para criar o aplicativo que controla a horta
+
 •	Programação da nossa placa microcontroladora (Arduíno) em C++ na IDE própria
 
 ## Hardware:
 •	Arduíno como microcontrolador
+
 •	Sensores para captar informações do ambiente: DHT22(Temp./Umi. do ar), Módulo de Bluetooth, Sensores de Chuva e Umidade do Solo
+
 •	Mini bomba de água para irrigação
+
 •	Fonte 12v 3A para alimentação do circuito
+
+## Contribuições Pessoais
+Neste primeiro projeto fiquei encarregada de buscar todas as informações necessárias para compor o aplicativo, sendo elas sobre o solo, clima, germinação, colheita, irrigação e o principal: Classes de plantio. Também tive contato com o Kodular que permite a criação da lógica através de blocos, facilitando assim o melhor entendimento do processo.
+
+
 
