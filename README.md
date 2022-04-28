@@ -12,7 +12,22 @@ O aplicativo deveria disponibilizar as funcionalidades de planejamento, acompanh
 
 **Funcionamento do Aplicativo**
 
-![video do app funcionando](https://github.com/AnafGodoy/Portfolio-API/blob/main/gifs/roadtracker.gif)
+O acesso pode ser feito por 3 diferentes níveis, sendo: Motorista, supervisor e administrador
+
+• No perfil do ***Motorista** o usuário terá a tela inicial, onde são exibidas as informações da viagem atual e os controles para regular seus tempos, uma lista que contém todas as viagens que foram atribuídas a ele podendo iniciá-las ou pausá-las e também a possibilidad ede enviar avisos aos sistemas, que serão vistos por **supervisores** e **administradores** de forma a auxiliar o motorista.
+
+![Perfil Motorista]( )
+
+• No perfil do **Supervisor** há o acesso à lista de motoristas, veículos e viagens cadastrados no sistema, podendo modificar os dados apenas dos dois primeiros. Os mesmos podem solicitar aos administradores o cadastro de novos motoristas para inclusão no sistema, além da visualização dos avisos enviados pelos motoristas a fim de obter um controle sobre as viagens e funcionários.
+
+![Perfil Supervisor]( )
+
+• No perfil do **Administrador** é possível acessar todo sistema e o banco de dados, podendo criar, alterar ou excluir qualquer entidade. Apenas administradores é disponibilizada a funcionalidade de visualizar o registro de atividades que todos os usuários geram ao utilizar o sistema. Com isso, podem também gerar um arquivo PDF sobre as estátisticas da situação dos motoristas em viagem.
+
+
+
+
+
 
 
 
