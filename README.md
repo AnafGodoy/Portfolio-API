@@ -6,27 +6,43 @@ No terceiro semestre tivemos como cliente a empresa **Ness Health** uma empresa 
 
 O projeto baseia-se no desenvolvimento de um LMS (Learning Management System) gratuito para os funcionários matriculados de forma gratuita para aprimorar seu conhecimentos, visto que a maioria das plataformas são pagas. O SkillShare conta com Pdf's, vídeo aulas, slides e quizzes, além de um certificado ao final do curso, chatbot para sanar dúvidas e os administradores/gestores terão acesso a um dashboard para análise de informação dos alunos
 
+
 **Funcionamento Sistema** 
 
-Chatbot e perfil do Administrador
+* Chatbot e perfil do Administrador
+
+![chatbot e adm](https://github.com/AnafGodoy/Portfolio-API/blob/main/gifs/bot%20e%20perfil%20adm.gif)
 
 
-Cadastro de notícias e livros
+* Cadastro de notícias e livros
+
+![noticias e livros](https://github.com/AnafGodoy/Portfolio-API/blob/main/gifs/cadastro%20noticias%20e%20livro.gif)
 
 
-Criar questao e gerir usuarios
+* Criar questao e gerir usuarios
 
-![video do app funcionando]()
-
-
-**Funcionamento da Horta**
-
-![video da horta funcionando]()
+![questao e usuarios](https://github.com/AnafGodoy/Portfolio-API/blob/main/gifs/criar%20questao%20e%20gerir%20usuarios.gif)
 
 
-*Para visualizar o repositório no GitHub [clique aqui]()*
+* Dashboard
+
+![dashboard](https://github.com/AnafGodoy/Portfolio-API/blob/main/gifs/dashboard.gif)
+
+
+* Curso
+
+![curso](https://github.com/AnafGodoy/Portfolio-API/blob/main/gifs/realiza%C3%A7%C3%A3o%20curso.gif)
+
+
 
 ## **Tecnologias Utilizadas:**
+* Java
+
+* Spring Boot
+
+* HTML, CSS e JavaScript
+
+* PostgreSQL
 
 
 ## Contribuições Pessoais
@@ -34,9 +50,11 @@ No time de desenvolvimento colaborei com a criação de algumas telas juntamente
 
 
 ## Hard Skills
-HTML:Usando HTML puro, sei fazer com ajuda.
-JavaScript: Sei fazer com ajuda.
-PostgreSQL: Sei mexer com autonomia.
+* HTML: Conhecimento básico, sei fazer com ajuda.
+
+* JavaScript: Conhecimento básico, sei fazer com ajuda.
+
+* PostgreSQL: Conhecimento e autonomia básicos.
 
 ## Soft Skills
 ***Comunicação*** - Evitando conflitos e resolvendo pendências que surgiam durante o projeto
