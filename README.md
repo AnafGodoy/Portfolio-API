@@ -23,8 +23,6 @@ Dado esse tema, foi discutido o que poderia ser de grande utilidade no dia a dia
 ![video da horta funcionando](https://github.com/AnafGodoy/Portfolio-API/blob/main/gifs/video%20funcionamento%20da%20horta.gif)
 
 
-*Para visualizar o repositório no GitHub [clique aqui](https://github.com/AnafGodoy/PI-HortaAutomatizada)*
-
 ## **Tecnologias Utilizadas:**
 ## Software:
 •	Kodular para criar o aplicativo que controla a horta
@@ -42,6 +40,14 @@ Dado esse tema, foi discutido o que poderia ser de grande utilidade no dia a dia
 
 ## Contribuições Pessoais
 Neste primeiro projeto fiquei encarregada de buscar todas as informações necessárias para compor o aplicativo, sendo elas sobre o solo, clima, germinação, colheita, irrigação e o principal: Classes de plantio. Também tive contato com o Kodular que permite a criação da lógica através de blocos, facilitando assim o melhor entendimento do processo. Com ele, os dados recebidos pelo usuários faziam com que levasse uma resposta para a porta serial do Arduino, por bluetooth.
+
+## Soft Skills
+
+***Comunicação*** - Evitando conflitos e resolvendo pendências que surgiam durante o projeto
+
+***Trabalho em equipe*** - Ao deparar com o desconhecido, a equipe estava sempre disposta a ensinar como fazer para que todos ficassem no mesmo nível, além da colaboração individual de cada para o andamento do projeto
+
+***Resiliência***  - Mesmo surgindo dificuldades e mudanças, fez-se necessário a adaptação e continuação do projeto
 
 
 
