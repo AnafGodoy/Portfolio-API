@@ -1,17 +1,46 @@
-# Portfolio-API 
+# SkillShare :brain::computer: 
 
-*Ana Clara F. Godoy / 5º Semestre / Análise e Desenvolvimento de Sistemas*
+*Em 2021-1*
 
-## Introdução 👩‍💻
-Meu nome é Ana Clara, tenho 20 anos e moro em Jacareí. Durante meu Ensino Médio na rede SESI-160 cursei Tecnico em Química pelo SENAI. Me interessei em tecnologia pela primeira vez no 3º ano do Ensino Médio através de um Projeto Integrador em que tinha como intuito melhorar a comunicação entre a escola e os responsáveis, criando assim, o aplicativo REDE SESI-160. Atualmente estou cursando o 5º semestre de Analise e Desenvolvimento de Sistemas e estagiando na Prefeitura Municipal de Jacareí no setor HelpDesk oferecendo suporte ao usuário e realizando a manutenção de Hardware e Software. 
+No terceiro semestre tivemos como cliente a empresa **Ness Health** uma empresa brasileira de tecnologia com foco na solução de problemas reais com uso de inovação, transformação e na entrega de resultados com velocidade e segurança. Foi fundada em 1991, em um cenário de crise, oferecendo um serviço que tinha como principal diferencial  a resolução de problemas até então sem solução, em diversas indústrias. 
 
-## Contatos 📲
-*[GitHub](https://github.com/AnafGodoy)* - **AnafGodoy**
+O projeto baseia-se no desenvolvimento de um LMS (Learning Management System) gratuito para os funcionários matriculados de forma gratuita para aprimorar seu conhecimentos, visto que a maioria das plataformas são pagas. O SkillShare conta com Pdf's, vídeo aulas, slides e quizzes, além de um certificado ao final do curso, chatbot para sanar dúvidas e os administradores/gestores terão acesso a um dashboard para análise de informação dos alunos
 
-*[Linkedin](https://www.linkedin.com/in/ana-clara-godoy-2973381b2/)* - **Ana Clara Godoy**
+**Funcionamento Sistema** 
 
-## **Link dos projetos** :computer:
-**1º Semestre - Horta Automatizada** [Clique Aqui](https://github.com/AnafGodoy/PI-HortaAutomatizada)
+Chatbot e perfil do Administrador
+
+
+Cadastro de notícias e livros
+
+
+Criar questao e gerir usuarios
+
+![video do app funcionando]()
+
+
+**Funcionamento da Horta**
+
+![video da horta funcionando]()
+
+
+*Para visualizar o repositório no GitHub [clique aqui]()*
+
+## **Tecnologias Utilizadas:**
+
+
+## Contribuições Pessoais
+
+
+## Hard Skills
+
+## Soft Skills
+***Comunicação*** - Evitando conflitos e resolvendo pendências que surgiam durante o projeto
+
+***Trabalho em equipe*** - Ao deparar com o desconhecido, a equipe estava sempre disposta a ensinar como fazer para que todos ficassem no mesmo nível, além da colaboração individual de cada para o andamento do projeto
+
+***Resiliência***  - Mesmo surgindo dificuldades e mudanças, fez-se necessário a adaptação e continuação do projeto
+
 
 
 
