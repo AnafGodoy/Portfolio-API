@@ -14,7 +14,7 @@ O aplicativo deveria disponibilizar as funcionalidades de planejamento, acompanh
 
 O acesso pode ser feito por 3 diferentes níveis, sendo: Motorista, supervisor e administrador
 
-• No perfil do ***Motorista** o usuário terá a tela inicial, onde são exibidas as informações da viagem atual e os controles para regular seus tempos, uma lista que contém todas as viagens que foram atribuídas a ele podendo iniciá-las ou pausá-las e também a possibilidad ede enviar avisos aos sistemas, que serão vistos por **supervisores** e **administradores** de forma a auxiliar o motorista.
+• No perfil do **Motorista** o usuário terá a tela inicial, onde são exibidas as informações da viagem atual e os controles para regular seus tempos, uma lista que contém todas as viagens que foram atribuídas a ele podendo iniciá-las ou pausá-las e também a possibilidad ede enviar avisos aos sistemas, que serão vistos por **supervisores** e **administradores** de forma a auxiliar o motorista.
 
 ![Perfil Motorista]( https://github.com/AnafGodoy/Portfolio-API/blob/2%C2%BA-Semestre/gifs/GIF%20Motorista.gif)
 
@@ -44,10 +44,10 @@ O acesso pode ser feito por 3 diferentes níveis, sendo: Motorista, supervisor e
 • Hibernate - Persistencia de dados
 
 ## Contribuições Pessoais
-No time de desenvolvimento contribui com a ideia de como o projeto seria realizando um esboço com meus colegas de equipe e checando o que se aplicaria melhor no nosso. Com a ajuda do scrum master participei da montagem de algumas telas do, testes e documentação teórica. 
+No time de desenvolvimento contribui com a ideia de como o projeto seria realizando um esboço com meus colegas de equipe e checando o que se aplicaria melhor no nosso. Com a ajuda do scrum master participei da montagem de algumas telas, realizei testes e documentação teórica. 
 
 ## Hard Skills
-• Java - Tenho entendimento e desenvolvimento básico. Para algumas funções contei com a ajuda do Master
+• Java - Tenho entendimento e desenvolvimento básico. Para algumas funções contei com a ajuda do Master.
 
 • PostgreSQL - Tive o primeiro contato e sei fazer com auxílio.
 
