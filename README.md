@@ -30,9 +30,13 @@ Criar questao e gerir usuarios
 
 
 ## Contribuições Pessoais
+No time de desenvolvimento colaborei com a criação de algumas telas juntamente com o resto da equipe. Participei de reuniões para melhoria do projeto e juntamente com uma integrante do grupo fizemos a apresentação do aplicativo final.
 
 
 ## Hard Skills
+HTML:Usando HTML puro, sei fazer com ajuda.
+JavaScript: Sei fazer com ajuda.
+PostgreSQL: Sei mexer com autonomia.
 
 ## Soft Skills
 ***Comunicação*** - Evitando conflitos e resolvendo pendências que surgiam durante o projeto
