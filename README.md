@@ -13,5 +13,9 @@ Meu nome é Ana Clara, tenho 20 anos e moro em Jacareí. Durante meu Ensino Méd
 ## **Link dos projetos** :computer:
 **1º Semestre - Horta Automatizada** [Clique Aqui](https://github.com/AnafGodoy/PI-HortaAutomatizada)
 
+**2º Semestre - RoadTracker** [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/tree/2%C2%BA-Semestre)
+
+**3º Semestre - SkillShare** [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/tree/3%C2%BA-semestre)
+
 
 
