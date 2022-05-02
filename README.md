@@ -44,10 +44,15 @@ O acesso pode ser feito por 3 diferentes níveis, sendo: Motorista, supervisor e
 • Hibernate - Persistencia de dados
 
 ## Contribuições Pessoais
-No time de desenvolvimento contribui com a ideia de como o projeto seria realizando um esboço com meus colegas de equipe e checando o que se aplicaria melhor no nosso projeto. Com a ajuda do scrum master participei da montagem de algumas telas, testes e documentação teórica. 
+No time de desenvolvimento contribui com a ideia de como o projeto seria realizando um esboço com meus colegas de equipe e checando o que se aplicaria melhor no nosso. Com a ajuda do scrum master participei da montagem de algumas telas do, testes e documentação teórica. 
 
 ## Hard Skills
-• Java 
+• Java - Tenho entendimento e desenvolvimento básico. Para algumas funções contei com a ajuda do Master
+
+• PostgreSQL - Tive o primeiro contato e sei fazer com auxílio.
+
+• JavaFX: Tive o primeiro contato. Posso criar telas no figma com autonomia
+
 
 ## Soft Skills
 ***Comunicação*** - Evitando conflitos e resolvendo pendências que surgiam durante o projeto
