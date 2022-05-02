@@ -1,4 +1,4 @@
-## **2º Semestre - Jornada de Motoristas** :computer: 🚘
+## **2º Semestre - Roadtracker** :computer: 🚘
 
 *Em 2020-2*
 
