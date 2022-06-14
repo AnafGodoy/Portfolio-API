@@ -1,34 +1,74 @@
-# Portfolio-API 
+# AutoDocs :computer: 
 
-*Ana Clara F. Godoy / 5º Semestre / Análise e Desenvolvimento de Sistemas*
+*Em 2021-1*
 
-## Introdução 👩‍💻
-<img align="right" src="https://github.com/AnafGodoy/Portfolio-API/blob/main/imagens/profile.png" alt="isolated" width="150"/>
+No quarto semestre tivemos como cliente a empresa **Embraer**, um conglomerado transnacional brasileiro, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área criada em 1969 com apoio do governo nacional 
 
-Meu nome é Ana Clara, tenho 20 anos e moro em Jacareí. Durante meu Ensino Médio na rede SESI-160 cursei Tecnico em Química pelo SENAI. Me interessei em tecnologia pela primeira vez no 3º ano do Ensino Médio através de um Projeto Integrador em que tinha como intuito melhorar a comunicação entre a escola e os responsáveis, criando assim, o aplicativo REDE SESI-160. Atualmente estou cursando o 5º semestre de Analise e Desenvolvimento de Sistemas e estagiando na Prefeitura Municipal de Jacareí no setor HelpDesk oferecendo suporte ao usuário e realizando a manutenção de Hardware e Software. 
+Como proposta, tivemos um problema da própria empresa que consiste no fato de que toda aeronava possuia um manual contendo suas particularidades. Como era disponibilizado em uma planilha e atualizado de forma manual, havia  chances de ocorrer erros devido a sua forma dificultosa de manejamento. Com isso, a solução era 
+desenvolver uma plataforma web sendo possivel realizar adição, exclusão e edição nos arquivos chamados de codelist através de sua importação de forma automatizada e rápida, comparado á anterior. Em nosso sistema, é possivel realizar o cadastro de Codeslist, ferramenta LEP e a geração de um aquivo PDF com sua nova atualização.
 
+**Funcionamento Sistema** 
 
-## Contatos 📲
-*[GitHub](https://github.com/AnafGodoy)* - **AnafGodoy**
+* Tela Inicial
 
-*[Linkedin](https://www.linkedin.com/in/ana-clara-godoy-2973381b2/)* - **Ana Clara Godoy**
-
-## Principais Conhecimentos 📚
+![tela inicial](https://github.com/AnafGodoy/Portfolio-API/blob/4%C2%BA-semestre/imagens/tela%20inicial.png)
 
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaFx-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+* Cadastro CodeList
 
-## **Link dos projetos** :computer:
-**1º Semestre - Horta Automatizada** 🌳💻 [Clique Aqui](https://github.com/AnafGodoy/PI-HortaAutomatizada)
-
-**2º Semestre - RoadTracker** 🚘💻 [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/tree/2%C2%BA-Semestre)
-
-**3º Semestre - SkillShare** 🧠💻 [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/tree/3%C2%BA-semestre)
+![cadastro codelist](https://github.com/AnafGodoy/Portfolio-API/blob/4%C2%BA-semestre/imagens/cadastro%20codelist.png)
 
 
+* Video demonstrativo
+
+![video demonstrativo 1](https://github.com/AnafGodoy/Portfolio-API/blob/4%C2%BA-semestre/gifs/video%20demonstrativo%20autodocs%201.gif)
+
+
+* Criação do Manual - Tela do Codelist
+
+![manual](https://github.com/AnafGodoy/Portfolio-API/blob/4%C2%BA-semestre/imagens/Cria%C3%A7%C3%A3o%20do%20Manual%20-%20Tela%20do%20Codelist2.png)
+
+
+
+
+![manual](https://github.com/AnafGodoy/Portfolio-API/blob/4%C2%BA-semestre/imagens/Cria%C3%A7%C3%A3o%20do%20Manual%20-%20Tela%20do%20Codelist.png)
+
+
+* Tela - Lista de Páginas Efetivas(LEP)
+
+![lep](https://github.com/AnafGodoy/Portfolio-API/blob/4%C2%BA-semestre/imagens/lep.png)
+
+* Vídeo Demonstrativo
+
+
+![video demonstrativo 2](https://github.com/AnafGodoy/Portfolio-API/blob/4%C2%BA-semestre/gifs/video%20demonstrativo%20autodocs%202.gif)
+
+
+
+## **Tecnologias Utilizadas:**
+* Figma - Montagem dos Wireframes Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
+
+* JavaScript - Front-end juntamente com o framework React
+
+* Typescript - Backend juntamente com o framework Node.js. 
+
+* PostgreSQL - Banco de dados 
+
+## Contribuições Pessoais
+Participei de reuniões do time para definirmos o caminho do projeto, com a ajuda do Po e do Scrum Master realizei a criaçao de algumas telas.
+
+
+## Hard Skills
+* Figma - sei fazer com autonomia.
+
+* Javascript/ React - sei fazer com ajuda.
+
+* Typescript/ Node.js - sei fazer com ajuda.
+
+* PostgreSQL - sei fazer com ajuda.
+
+## Soft Skills
+***Comunicação*** - Evitando conflitos e resolvendo pendências que surgiam durante o projeto
+
+***Trabalho em equipe*** - Ao deparar com o desconhecido, a equipe estava sempre disposta a ensinar como fazer para que todos ficassem no mesmo nível, além da colaboração individual de cada para o andamento do projeto
 
