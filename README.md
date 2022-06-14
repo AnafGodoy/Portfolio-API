@@ -1,34 +1,49 @@
-# Portfolio-API 
+# FolConn :computer: ✈
 
-*Ana Clara F. Godoy / 5º Semestre / Análise e Desenvolvimento de Sistemas*
+*Em 2022-1*
 
-## Introdução 👩‍💻
-<img align="right" src="https://github.com/AnafGodoy/Portfolio-API/blob/main/imagens/profile.png" alt="isolated" width="150"/>
+No quinto semestre tivemos como cliente a empresa **Embraer**, um conglomerado transnacional brasileiro, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área criada em 1969 com apoio do governo nacional 
 
-Meu nome é Ana Clara, tenho 20 anos e moro em Jacareí. Durante meu Ensino Médio na rede SESI-160 cursei Tecnico em Química pelo SENAI. Me interessei em tecnologia pela primeira vez no 3º ano do Ensino Médio através de um Projeto Integrador em que tinha como intuito melhorar a comunicação entre a escola e os responsáveis, criando assim, o aplicativo REDE SESI-160. Atualmente estou cursando o 5º semestre de Analise e Desenvolvimento de Sistemas e estagiando na Prefeitura Municipal de Jacareí no setor HelpDesk oferecendo suporte ao usuário e realizando a manutenção de Hardware e Software. 
+Dessa vez, nos foi proposto outro problema real da empresa: Suas aeronaves passam por manutenções e geram recalls, sendo eles um arquivo em pdf (FOL) constando o nome do avião e o que foi redefinido na aeronave para consentimento de todos que fizerem uso dela futuramente, evitando conflitos. Poré, o problema é a má comunicação entre os pilotos com o documento. Sendo assim, foi solicitado o desenvolvimetno de um aplicativo mobile capaz de enviar notificações ao surgir novas Fol's. Além disso, o projeto conta com  uma interface web, em que somente administradores possuem acesso à informações de localização do cliente que visualizou a Fol.
 
+**Funcionamento Sistema** 
 
-## Contatos 📲
-*[GitHub](https://github.com/AnafGodoy)* - **AnafGodoy**
+* Aplicativo Mobile
 
-*[Linkedin](https://www.linkedin.com/in/ana-clara-godoy-2973381b2/)* - **Ana Clara Godoy**
-
-## Principais Conhecimentos 📚
+![mobile](https://github.com/AnafGodoy/Portfolio-API/blob/5%C2%BA-semestre/gifs/mobile.gif)
 
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaFx-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+* Visualização de localização dos clientes
 
-## **Link dos projetos** :computer:
-**1º Semestre - Horta Automatizada** 🌳💻 [Clique Aqui](https://github.com/AnafGodoy/PI-HortaAutomatizada)
-
-**2º Semestre - RoadTracker** 🚘💻 [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/tree/2%C2%BA-Semestre)
-
-**3º Semestre - SkillShare** 🧠💻 [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/tree/3%C2%BA-semestre)
+![cweb](https://github.com/AnafGodoy/Portfolio-API/blob/5%C2%BA-semestre/imagens/web.png)
 
 
+
+## **Tecnologias Utilizadas:**
+* TypeScript: Back- end Para desenvolvimento mobile e web
+
+* React-Native: Front-end / Framework 
+
+* Python: Back-end / Manipulaçao de dados
+
+* MongoDB: Banco de dados 
+
+
+## Contribuições Pessoais
+Nesse semestre tive pouca participação no desenvolvimento do projeto, atuando no desenvolvimento do readme da 1 sprint e na criação dos termos de uso do aplicativo.
+
+
+## Hard Skills
+* TypeScript - sei fazer com ajuda.
+
+* React - sei fazer com ajuda.
+
+* Python - sei fazer com ajuda.
+
+* MongoDB - sei fazer com ajuda.
+
+## Soft Skills
+***Comunicação*** - Evitando conflitos e resolvendo pendências que surgiam durante o projeto
+
+***Trabalho em equipe*** - Foi divido afazeres entre todos os participantes do grupo e sempre um ajudando ao outro quando necessário.
 
