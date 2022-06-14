@@ -70,5 +70,5 @@ Participei de reuniões do time para definirmos o caminho do projeto, com a ajud
 ## Soft Skills
 ***Comunicação*** - Evitando conflitos e resolvendo pendências que surgiam durante o projeto
 
-***Trabalho em equipe*** - Ao deparar com o desconhecido, a equipe estava sempre disposta a ensinar como fazer para que todos ficassem no mesmo nível, além da colaboração individual de cada para o andamento do projeto
+***Trabalho em equipe*** - A equipe era constituida por integrantes de diferentes turmas, com isso, pudemos desenvolver a confiança um com o outro para que fosse possível um ambiente confortável para trabalhar e também sanar dúvidas sobre assuntos diversos.
 
