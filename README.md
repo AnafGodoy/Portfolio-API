@@ -30,7 +30,7 @@ Dessa vez, nos foi proposto outro problema real da empresa: Suas aeronaves passa
 
 
 ## Contribuições Pessoais
-Nesse semestre tive pouca participação no desenvolvimento do projeto, atuando no desenvolvimento do readme da 1 sprint e na criação dos termos de uso do aplicativo.
+Nesse semestre participei da criação dos termos de usuário para o sistema, que também integrava à matéria de Segurança da Informação e os readmes das entregas.
 
 
 ## Hard Skills
