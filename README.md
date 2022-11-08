@@ -1,41 +1,44 @@
-# Portfolio-API 
+# eSoja 🌱
+*em 2022-2*
 
-*Ana Clara F. Godoy / 5º Semestre / Análise e Desenvolvimento de Sistemas*
+Neste sexto semestre trabalharemos junto com a **Visiona**, uma empresa integradora de soluções baseadas em sistemas espaciais. Criada em 2012 para atender os objetivos do Programa Nacional de Atividades Espaciais (PNAE) e do Programa Estratégico de Sistemas Espaciais (PESE). A empresa foi a responsável pelo Programa do Satélite Geoestacionário de Defesa e Comunicações Estratégicas, o SGDC, lançado em 2017 tivemos como proposta criar uma extensão de um aplicativo.
 
-## Introdução 👩‍💻
-<img align="right" src="https://github.com/AnafGodoy/Portfolio-API/blob/main/imagens/profile.png" alt="isolated" width="150"/>
-
-Meu nome é Ana Clara, tenho 20 anos e moro em Jacareí. Durante meu Ensino Médio na rede SESI-160 cursei Tecnico em Química pelo SENAI. Me interessei em tecnologia pela primeira vez no 3º ano do Ensino Médio através de um Projeto Integrador em que tinha como intuito melhorar a comunicação entre a escola e os responsáveis, criando assim, o aplicativo REDE SESI-160. Atualmente estou cursando o 5º semestre de Analise e Desenvolvimento de Sistemas e estagiando na Prefeitura Municipal de Jacareí no setor HelpDesk oferecendo suporte ao usuário e realizando a manutenção de Hardware e Software. 
+Como proposta, criamos uma extensão de um aplicativo já existente que visa prestar um serviço aos produtores rurais quanto ao controle de seus plantios, como informações estatísticas de produção, plantio e previsão do tempo a partir de dados inseridos manualmente. Como forma de automatizar e facilitar o trabalho, será incluido uma Inteligência Artificial para o recebimento de dados quantitativos a partir de uma Imagem.
 
 
-## Contatos 📲
-*[GitHub](https://github.com/AnafGodoy)* - **AnafGodoy**
+## O Projeto eSoja
 
-*[Linkedin](https://www.linkedin.com/in/ana-clara-godoy-2973381b2/)* - **Ana Clara Godoy**
+![projeto](https://github.com/AnafGodoy/Portfolio-API/blob/main/gifs/esoja.gif)
 
-## Principais Conhecimentos 📚
+## IA
 
+![ia](https://github.com/AnafGodoy/Portfolio-API/blob/main/imagens/ia.jpeg)
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaFx-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ ## **Tecnologias Utilizadas:**
+* Python: Para construção e treinamento da IA
 
-## **Link dos projetos** :computer:
-**1º Semestre - Horta Automatizada** 🌳💻 [Clique Aqui](https://github.com/AnafGodoy/PI-HortaAutomatizada)
+* React-Native: Tecnologia utilizada na construção da primeira versão do app para o Front
 
-**2º Semestre - RoadTracker** 🚘💻 [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/tree/2%C2%BA-Semestre)
-
-**3º Semestre - SkillShare** 🧠💻 [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/tree/3%C2%BA-semestre)
-
-**4º Semestre - AutoDocs**  💻 [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/blob/4%C2%BA-semestre/README.md)
-
-**5º Semestre - FolConn** 💻✈ [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/blob/5%C2%BA-semestre/README.md)
+* PostgreSQL : Banco de dados
 
 
+## Contribuições Pessoais
+Contribui para anotação das imagens enviadas pela empresa para a construção da IA
 
+## Hard Skills
+
+* Python - Sei com ajuda
+
+* PostgreSQL - Sei com ajuda
+
+* React Native - Sei com ajuda
+
+## Soft Skills
+***Comunicação*** - Necessária para que todos esteja de acordo com o que está sendo feito.
+
+***Flexibilidade e resiliência*** - Importante na gestão de um projeto para ser capaz de adaptar e continuar produzindo diante das mudanças de cenários.
+
+***Trabalho em equipe*** -  O time conta com diferentes conhecimentos, o que impacta positivamente pois um ajuda ao outro.
 
 
 
