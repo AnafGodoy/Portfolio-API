@@ -34,6 +34,8 @@ Meu nome é Ana Clara, tenho 20 anos e moro em Jacareí. Durante meu Ensino Méd
 
 **5º Semestre - FolConn** 💻✈ [Clique Aqui](https://github.com/AnafGodoy/Portfolio-API/blob/5%C2%BA-semestre/README.md)
 
+**6° Semestre - ESoja** 🍃💻 [Clique Aqui](https://github.com/Agroghosts)
+
 
 
 
