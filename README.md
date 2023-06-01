@@ -13,7 +13,7 @@ Já realizei estagio na Prefeitura Municipal de Jacareí no setor HelpDesk duran
 
 ## **2. Projetos** :computer:
 ### **2.1 1º Semestre - Horta Automatizada**  🌳💻 
-[Clique Aqui](https://github.com/AnafGodoy/PI-HortaAutomatizada)
+[Clique Aqui]([https://github.com/AnafGodoy/PI-HortaAutomatizada](https://github.com/AnafGodoy/Portfolio-API/tree/1%C2%BA-Semestre)
 
 Nesse primeiro semestre tivemos a Fatec como empresa parceira, e como proposta, a criação de uma aplicação com o tema: Automação 4.0 de forma que os sistemas se conectassem através de bluetooth, wifi ou outros, afim de gerar uma integração entre um software (app) e hardware (físico).
 
