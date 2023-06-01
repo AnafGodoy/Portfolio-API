@@ -5,7 +5,7 @@
 ## 1.Introdução 👩‍💻
 <img align="right" src="https://github.com/AnafGodoy/Portfolio-API/blob/main/imagens/profile.png" alt="isolated" width="150"/>
 
-Meu chamo Ana Clara, tenho 21 anos e moro atualmente em São José dos campos. Durante meu Ensino Médio na rede SESI-160 cursei Tecnico em Química pelo SENAI. Me interessei em tecnologia pela primeira vez no 3º ano do Ensino Médio através de um Projeto Integrador em que tinha como intuito melhorar a comunicação entre a escola e os responsáveis, criando assim, o aplicativo REDE SESI-160. Atualmente estou cursando o 6º semestre de Analise e Desenvolvimento de Sistemas.
+Me chamo Ana Clara, tenho 21 anos e moro atualmente em São José dos campos. Durante meu Ensino Médio na rede SESI-160 cursei Tecnico em Química pelo SENAI. Me interessei em tecnologia pela primeira vez no 3º ano do Ensino Médio através de um Projeto Integrador em que tinha como intuito melhorar a comunicação entre a escola e os responsáveis, criando assim, o aplicativo REDE SESI-160. Atualmente estou cursando o 6º semestre de Analise e Desenvolvimento de Sistemas.
 
 ## 1.1 Experiência Profissional
 
