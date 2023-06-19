@@ -46,7 +46,7 @@ O projeto baseia-se no desenvolvimento de um LMS (Learning Management System) gr
 
 
 ## Contribuições Pessoais
-No time de desenvolvimento colaborei com a criação das telas Criar curso, pílula de conhecimento e feedback do aluno juntamente com o resto da equipe. Participei de reuniões para melhoria do projeto e juntamente com uma integrante do grupo fizemos a apresentação do aplicativo final.
+No time de desenvolvimento colaborei com a criação das telas Login, pílula de conhecimento e eventos juntamente com o resto da equipe. Participei de reuniões para melhoria do projeto e juntamente com uma integrante do grupo fizemos a apresentação do aplicativo final.
 
 
 ## Hard Skills
