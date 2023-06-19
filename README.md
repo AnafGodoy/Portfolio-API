@@ -23,7 +23,7 @@ Como proposta, criamos uma extensão de um aplicativo já existente que visa pre
 
 
 ## Contribuições Pessoais
-Contribui para anotação das imagens enviadas pela empresa para a construção da IA
+Contribui para anotação das imagens enviadas pela empresa para a construção da IA e análise e correção dos defeitos do aplicativo 
 
 ## Hard Skills
 
